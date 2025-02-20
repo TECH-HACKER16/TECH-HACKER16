@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **pvteja162000@gmail.com**
 
-- <p align="left"> <a href="https://www.linkedin.com/in/pedasanaganti-venkata-teja-6966b21b5/" target="_blank" rel="noreferrer"> <img src="https://sl.bing.net/hPUWTq13INU" alt="LinkedIn" width="40" height="40"/> </a>
+- <p align="left"> <a href="https://www.linkedin.com/in/pedasanaganti-venkata-teja-6966b21b5/" target="_blank" rel="noreferrer"> <img src="https://th.bing.com/th?id=ODLS.bf45b63f-dd6a-457b-9174-b8c8ee56b5f3&w=32&h=32&qlt=90&pcl=fffffc&o=6&pid=1.2" alt="LinkedIn" width="40" height="40"/> </a>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
