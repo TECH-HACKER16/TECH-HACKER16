@@ -12,7 +12,7 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://stackoverflow.com/users/22536390" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22536390" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/pedasanaganti-venkata-teja-6966b21b5/" target="_blank" rel="noreferrer"> <img src="https://th.bing.com/th?id=ODLS.bf45b63f-dd6a-457b-9174-b8c8ee56b5f3&w=32&h=32&qlt=90&pcl=fffffc&o=6&pid=1.2" alt="LinkedIn" width="40" height="30"/> </a>
+<a href="https://www.linkedin.com/in/pedasanaganti-venkata-teja-6966b21b5/" target="_blank" rel="noreferrer"> <img src="https://google.com/th/id/OIP.6uTQ7mOjYOD2sNKxUdnaNAHaHa?w=183&h=184&c=7&r=0&o=5&pid=1.7" alt="LinkedIn" width="40" height="30"/> </a>
 <a href="https://instagram.com/venkata_teja_16" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="venkata_teja_16" height="30" width="40" /></a>
 </p>
 
