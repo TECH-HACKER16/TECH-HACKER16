@@ -9,6 +9,8 @@
 
 - 📫 How to reach me **pvteja162000@gmail.com**
 
+- <p align="left"> <a href="https://www.linkedin.com/in/pedasanaganti-venkata-teja-6966b21b5/" target="_blank" rel="noreferrer"> <img src="https://sl.bing.net/hPUWTq13INU" alt="LinkedIn" width="40" height="40"/> </a>
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://stackoverflow.com/users/22536390" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="22536390" height="30" width="40" /></a>
